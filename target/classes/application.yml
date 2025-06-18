@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/remindology_db
+    username: postgres
+    password: Shubh@4344
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true

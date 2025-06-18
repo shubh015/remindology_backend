@@ -1,0 +1,6 @@
+com\remindology\security\SecurityConfig.class
+com\remindology\model\Reminder.class
+com\remindology\controller\ReminderController.class
+com\remindology\repository\ReminderRepository.class
+com\remindology\service\ReminderService.class
+com\remindology\RemindologyApplication.class
